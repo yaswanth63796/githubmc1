@@ -1,0 +1,26 @@
+.container{
+    position:relative;
+}
+.content{
+    
+    position:absolute;
+    top:20px;
+    color:black;
+    
+    
+}
+.para{
+    color:black;
+    margin-left:1px;
+    width:840px;
+    margin:8px;
+    
+}
+.btn{
+    border-radius: 20px;
+    height:40px;
+    width:130px;
+    border-color:whitesmoke;
+    margin-left: 300px;
+
+}
